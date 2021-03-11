@@ -3,6 +3,8 @@
 
 I'm <b>Berjin</b>.
 I'm a Sophomore undergrad pursuing a major in Computer Science at BITS Pilani, Hyderabad Campus
+
+![](https://komarev.com/ghpvc/?username=Berjin)
 <!--
 **Berjin/Berjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
