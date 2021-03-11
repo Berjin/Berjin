@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Berjin&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Berjin&show_icons=true&theme=radical&count_private=true" />
+
 I'm <b>Berjin</b>.
 I'm a Sophomore undergrad pursuing a major in Computer Science at BITS Pilani, Hyderabad Campus
 <!--
