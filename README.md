@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋, I am <b>Berjin</b>!
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Berjin&show_icons=true&theme=radical&count_private=true" />
 
-I'm <b>Berjin</b>.
+
 I'm a Sophomore undergrad pursuing a major in Computer Science at BITS Pilani, Hyderabad Campus
 
 ![](https://komarev.com/ghpvc/?username=Berjin)
