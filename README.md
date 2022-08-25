@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Berjin&show_icons=true&theme=radical&count_private=true" />
 
 
-I'm a Junior undergrad pursuing a major in Computer Science at BITS Pilani, Hyderabad Campus
+I'm an undergrad pursuing a major in Computer Science at BITS Pilani, Hyderabad Campus
 
 ![](https://komarev.com/ghpvc/?username=Berjin)
 <!--
